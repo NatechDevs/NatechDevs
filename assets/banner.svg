@@ -1,0 +1,112 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d97706" />
+      <stop offset="100%" style="stop-color:#f59e0b" />
+    </linearGradient>
+    <linearGradient id="goldVert" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#d97706;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:0" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- Grid lines -->
+  <g opacity="0.04" stroke="#d97706" stroke-width="0.5">
+    <line x1="0" y1="50" x2="1200" y2="50"/><line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/><line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/><line x1="100" y1="0" x2="100" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="300"/><line x1="500" y1="0" x2="500" y2="300"/>
+    <line x1="700" y1="0" x2="700" y2="300"/><line x1="900" y1="0" x2="900" y2="300"/>
+    <line x1="1100" y1="0" x2="1100" y2="300"/>
+  </g>
+
+  <!-- Matrix rain effect dots -->
+  <g fill="#d97706" opacity="0.08">
+    <circle cx="50" cy="30" r="1.5"/><circle cx="150" cy="80" r="1"/><circle cx="280" cy="45" r="1.5"/>
+    <circle cx="400" cy="120" r="1"/><circle cx="550" cy="25" r="1.5"/><circle cx="680" cy="95" r="1"/>
+    <circle cx="800" cy="55" r="1.5"/><circle cx="950" cy="130" r="1"/><circle cx="1050" cy="35" r="1.5"/>
+    <circle cx="1150" cy="110" r="1"/><circle cx="80" cy="200" r="1"/><circle cx="220" cy="250" r="1.5"/>
+    <circle cx="350" cy="180" r="1"/><circle cx="480" cy="270" r="1.5"/><circle cx="620" cy="190" r="1"/>
+    <circle cx="750" cy="260" r="1.5"/><circle cx="880" cy="175" r="1"/><circle cx="1020" cy="240" r="1.5"/>
+  </g>
+
+  <!-- Gold accent line top -->
+  <rect x="0" y="0" width="1200" height="2" fill="url(#gold)" opacity="0.6"/>
+
+  <!-- Gold accent line bottom -->
+  <rect x="0" y="298" width="1200" height="2" fill="url(#gold)" opacity="0.6"/>
+
+  <!-- Vertical gold accents left -->
+  <rect x="40" y="40" width="2" height="60" fill="url(#goldVert)" filter="url(#glow)"/>
+  <rect x="40" y="140" width="2" height="120" fill="url(#goldVert)" filter="url(#glow)"/>
+
+  <!-- Vertical gold accents right -->
+  <rect x="1158" y="40" width="2" height="60" fill="url(#goldVert)" filter="url(#glow)"/>
+  <rect x="1158" y="140" width="2" height="120" fill="url(#goldVert)" filter="url(#glow)"/>
+
+  <!-- Diamond/Hexagon symbol -->
+  <g transform="translate(90, 80)" filter="url(#softGlow)">
+    <polygon points="30,0 60,20 60,50 30,70 0,50 0,20" fill="none" stroke="#d97706" stroke-width="2" opacity="0.6"/>
+    <polygon points="30,8 52,23 52,47 30,62 8,47 8,23" fill="none" stroke="#d97706" stroke-width="1" opacity="0.3"/>
+    <circle cx="30" cy="35" r="8" fill="none" stroke="#d97706" stroke-width="1.5" opacity="0.5"/>
+    <circle cx="30" cy="35" r="3" fill="#d97706" opacity="0.8"/>
+  </g>
+
+  <!-- Circuit lines -->
+  <g stroke="#d97706" stroke-width="0.8" fill="none" opacity="0.15">
+    <path d="M160,95 L200,95 L220,75 L260,75"/>
+    <path d="M900,95 L940,95 L960,75 L1000,75"/>
+    <circle cx="260" cy="75" r="3" fill="#d97706" opacity="0.3"/>
+    <circle cx="1000" cy="75" r="3" fill="#d97706" opacity="0.3"/>
+  </g>
+
+  <!-- Main Title -->
+  <text x="600" y="125" text-anchor="middle" font-family="'Courier New', monospace" font-size="64" font-weight="900" fill="url(#gold)" filter="url(#glow)" letter-spacing="8">
+    NatechDevs
+  </text>
+
+  <!-- Subtitle with brackets -->
+  <text x="600" y="165" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#d97706" opacity="0.7" letter-spacing="4">
+    ⎨ STRATEGIC INNOVATION ARCHITECT ⎬
+  </text>
+
+  <!-- Tagline -->
+  <text x="600" y="200" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#64748b" letter-spacing="6">
+    ENGINEERING INTELLIGENCE · ARCHITECTING IMPACT
+  </text>
+
+  <!-- Bottom decorative elements -->
+  <g transform="translate(600, 240)">
+    <line x1="-100" y1="0" x2="-20" y2="0" stroke="#d97706" stroke-width="0.5" opacity="0.4"/>
+    <circle cx="0" cy="0" r="3" fill="#d97706" opacity="0.6"/>
+    <line x1="20" y1="0" x2="100" y2="0" stroke="#d97706" stroke-width="0.5" opacity="0.4"/>
+  </g>
+
+  <!-- Bottom corner accents -->
+  <path d="M40,265 L40,258" stroke="#d97706" stroke-width="1.5" opacity="0.4"/>
+  <path d="M40,265 L47,265" stroke="#d97706" stroke-width="1.5" opacity="0.4"/>
+  <path d="M1160,265 L1160,258" stroke="#d97706" stroke-width="1.5" opacity="0.4"/>
+  <path d="M1160,265 L1153,265" stroke="#d97706" stroke-width="1.5" opacity="0.4"/>
+</svg>
