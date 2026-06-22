@@ -1,103 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0a0f1a;stop-opacity:1" />
       <stop offset="50%" style="stop-color:#111827;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0a0f1a;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#b45309" />
-      <stop offset="100%" style="stop-color:#d97706" />
-    </linearGradient>
     <linearGradient id="lineFade" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#d97706;stop-opacity:0" />
-      <stop offset="20%" style="stop-color:#d97706;stop-opacity:0.15" />
       <stop offset="50%" style="stop-color:#d97706;stop-opacity:0.3" />
-      <stop offset="80%" style="stop-color:#d97706;stop-opacity:0.15" />
-      <stop offset="100%" style="stop-color:#d97706;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient id="glowLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#d97706;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#d97706;stop-opacity:0.6" />
       <stop offset="100%" style="stop-color:#d97706;stop-opacity:0" />
     </linearGradient>
   </defs>
-
-  <!-- Background -->
-  <rect width="1200" height="280" fill="url(#bg)"/>
-
-  <!-- Subtle top border glow -->
-  <rect x="0" y="0" width="1200" height="1" fill="url(#glowLine)"/>
-
-  <!-- Subtle bottom border glow -->
-  <rect x="0" y="279" width="1200" height="1" fill="url(#glowLine)"/>
-
-  <!-- Horizontal accent line -->
-  <rect x="80" y="205" width="1040" height="1" fill="url(#lineFade)"/>
-
-  <!-- Left vertical accent -->
-  <rect x="60" y="40" width="1" height="200" fill="url(#lineFade)"/>
-
-  <!-- Right vertical accent -->
-  <rect x="1139" y="40" width="1" height="200" fill="url(#lineFade)"/>
-
-  <!-- Diamond mark -->
-  <g transform="translate(95, 75)">
-    <rect x="0" y="6" width="28" height="28" rx="4" fill="none" stroke="#d97706" stroke-width="1.5" opacity="0.5"/>
-    <rect x="4" y="10" width="20" height="20" rx="3" fill="none" stroke="#d97706" stroke-width="1" opacity="0.3"/>
-    <rect x="10" y="16" width="8" height="8" rx="1.5" fill="#d97706" opacity="0.8"/>
-  </g>
-
-  <!-- Small decorative dots -->
-  <g fill="#d97706" opacity="0.12">
-    <circle cx="160" cy="52" r="1.5"/>
-    <circle cx="350" cy="48" r="1"/>
-    <circle cx="580" cy="55" r="1.5"/>
-    <circle cx="780" cy="45" r="1"/>
-    <circle cx="950" cy="52" r="1.5"/>
-    <circle cx="1080" cy="50" r="1"/>
-    <circle cx="200" cy="230" r="1"/>
-    <circle cx="420" cy="235" r="1.5"/>
-    <circle cx="650" cy="228" r="1"/>
-    <circle cx="850" cy="238" r="1.5"/>
-    <circle cx="1020" cy="232" r="1"/>
-    <circle cx="160" cy="140" r="0.8"/>
-    <circle cx="1040" cy="145" r="0.8"/>
-  </g>
-
-  <!-- Name -->
-  <text x="140" y="108" font-family="'Segoe UI', -apple-system, sans-serif" font-size="44" font-weight="700" fill="#f1f5f9" letter-spacing="1">
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="1" fill="url(#lineFade)"/>
+  <rect x="0" y="199" width="1200" height="1" fill="url(#lineFade)"/>
+  <text x="60" y="85" font-family="'Segoe UI', -apple-system, sans-serif" font-size="42" font-weight="700" fill="#f1f5f9" letter-spacing="0.5">
     James Darrol Nate
   </text>
-
-  <!-- Title row 1 -->
-  <text x="140" y="142" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" fill="#d97706" letter-spacing="4" font-weight="600">
-    STRATEGIC INNOVATION ARCHITECT
+  <text x="60" y="120" font-family="'Segoe UI', -apple-system, sans-serif" font-size="15" fill="#d97706" letter-spacing="2" font-weight="500">
+    SOFTWARE ENGINEER  ·  AI & AUTOMATION  ·  SYSTEM ARCHITECT
   </text>
-
-  <!-- Title row 2 -->
-  <text x="140" y="165" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" fill="#94a3b8" letter-spacing="3" font-weight="400">
-    AI SYSTEMS • AUTOMATION • DIGITAL TRANSFORMATION
+  <text x="60" y="150" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" fill="#64748b" letter-spacing="1" font-weight="300">
+    Building intelligent, scalable systems for education and enterprise.
   </text>
-
-  <!-- Tagline -->
-  <text x="140" y="196" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" fill="#64748b" letter-spacing="1.5" font-weight="300" font-style="italic">
-    "Architecting intelligent systems. Building future-ready innovation."
-  </text>
-
-  <!-- Right side: abstract tech mark -->
-  <g transform="translate(1020, 65)" opacity="0.15">
-    <circle cx="0" cy="0" r="35" fill="none" stroke="#d97706" stroke-width="1"/>
-    <circle cx="0" cy="0" r="22" fill="none" stroke="#d97706" stroke-width="0.8"/>
-    <circle cx="0" cy="0" r="10" fill="none" stroke="#d97706" stroke-width="0.5"/>
-    <line x1="-38" y1="0" x2="38" y2="0" stroke="#d97706" stroke-width="0.5"/>
-    <line x1="0" y1="-38" x2="0" y2="38" stroke="#d97706" stroke-width="0.5"/>
-  </g>
-
-  <!-- Bottom indicator dots -->
-  <g fill="#d97706" opacity="0.25">
-    <circle cx="600" cy="245" r="2"/>
-    <circle cx="610" cy="245" r="2"/>
-    <circle cx="620" cy="245" r="2"/>
-  </g>
 </svg>
