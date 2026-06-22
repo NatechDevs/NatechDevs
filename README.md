@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/NatechDevs/NatechDevs/main/assets/banner.svg" width="100%" alt="NatechDevs Banner" />
 </p>
 
----
-
 ## **Hi, I'm James Darrol Nate**
 
 **AI-Augmented Systems Architect** — Architecting logical digital ecosystems through systems thinking, AI-assisted workflows, and user-centered architecture.
@@ -56,30 +54,3 @@ I specialize in translating high-level business requirements into scalable digit
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
----
-
-## **Featured Project: OROHIVE**
-
-Enterprise e-library intelligence platform for educational institutions. Multi-tenant architecture with AI-augmented features, real-time analytics, and enterprise-grade security.
-
-**Stack:** PHP · MySQL · GSAP · Tailwind CSS · JavaScript · REST API
-
----
-
-## **Contact**
-
-<p align="center">
-  <a href="mailto:jamesdarrolnate@devs.com"><img src="https://img.shields.io/badge/jamesdarrolnate%40devs.com-0a0f1a?style=for-the-badge&logo=gmail&logoColor=d97706" /></a>
-  <a href="https://github.com/NatechDevs"><img src="https://img.shields.io/badge/%40NatechDevs-0a0f1a?style=for-the-badge&logo=github&logoColor=d97706" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0a0f1a?style=for-the-badge&logo=linkedin&logoColor=d97706" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0a0f1a?style=for-the-badge&logo=google-chrome&logoColor=d97706" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NatechDevs&color=d97706&style=flat-square&label=Visits" alt="Profile Visits" />
-  <br><br>
-  <em>© 2025 NatechDevs</em>
-</p>
