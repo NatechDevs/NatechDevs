@@ -2,17 +2,15 @@
   <img src="https://raw.githubusercontent.com/NatechDevs/NatechDevs/main/assets/banner.svg" width="100%" alt="NatechDevs Banner" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/NatechDevs">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=5000&pause=1000&color=D97706&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Automation;System+Architect;E-Learning+Platforms" alt="Typing Animation" />
-  </a>
-</p>
-
 ---
 
-## **About**
+## **Hi, I'm James Darrol Nate**
 
-Software engineer focused on building intelligent, secure, and scalable systems. I design and develop AI-augmented platforms, automation frameworks, and enterprise applications — with an emphasis on clean architecture, security-first design, and real-world impact.
+**AI-Augmented Systems Architect** — Architecting logical digital ecosystems through systems thinking, AI-assisted workflows, and user-centered architecture.
+
+I specialize in translating high-level business requirements into scalable digital architectures. My process combines the creative intuition of a product designer with the rigorous logic of a systems engineer.
+
+> *"Architecture is not just about structure; it's about the seamless flow of logic across every digital layer."*
 
 ---
 
@@ -34,6 +32,7 @@ Software engineer focused on building intelligent, secure, and scalable systems.
 ### **Backend & Database**
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PDO](https://img.shields.io/badge/PDO-4479A1?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Security**
 ![CSRF](https://img.shields.io/badge/CSRF-000000?style=for-the-badge&logo=owasp&logoColor=white)
@@ -43,7 +42,10 @@ Software engineer focused on building intelligent, secure, and scalable systems.
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![XSS Prevention](https://img.shields.io/badge/XSS-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### **AI & Automation**
+### **AI Platforms**
+![Claude](https://img.shields.io/badge/Claude-6F2DA8?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-005571?style=for-the-badge&logo=databricks&logoColor=white)
 ![Process Automation](https://img.shields.io/badge/Process_Automation-00897B?style=for-the-badge&logo=automation&logoColor=white)
@@ -57,35 +59,11 @@ Software engineer focused on building intelligent, secure, and scalable systems.
 
 ---
 
-## **GitHub Stats**
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NatechDevs&show_icons=true&count_private=true&hide_border=true&title_color=d97706&icon_color=d97706&text_color=cbd5e1&bg_color=0a0f1a&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatechDevs&layout=compact&hide_border=true&title_color=d97706&text_color=cbd5e1&bg_color=0a0f1a" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=NatechDevs&hide_border=true&fire=d97706&ring=d97706&sideNums=cbd5e1&sideLabels=cbd5e1&currStreakLabel=d97706&dates=64748b&background=0a0f1a" />
-</p>
-
-<p align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=NatechDevs&bg_color=0a0f1a&color=d97706&line=d97706&point=cbd5e1&area=true&hide_border=true" />
-</p>
-
----
-
 ## **Featured Project: OROHIVE**
 
 Enterprise e-library intelligence platform for educational institutions. Multi-tenant architecture with AI-augmented features, real-time analytics, and enterprise-grade security.
 
 **Stack:** PHP · MySQL · GSAP · Tailwind CSS · JavaScript · REST API
-
-**Key highlights:**
-- Security-first architecture (CSRF, CSP, HSTS, SRI, rate limiting, input validation)
-- Role-based access (Admin, Superadmin, IT Admin)
-- Real-time visitor tracking and download analytics
-- GSAP-powered immersive UI
-- Multi-tenant school-level tenancy
 
 ---
 
