@@ -1,225 +1,219 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NatechDevs/NatechDevs/main/assets/banner.svg" width="100%" alt="NatechDevs Banner" />
+</p>
 
-# ⎈ **NatechDevs** ⎈
-### *Strategic Innovation Architect & AI Systems Engineer*
-
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=D97706&center=true&vCenter=true&width=600&lines=Architecting+Intelligent+Systems;Designing+AI-Native+Solutions;Building+the+Future+of+Education+Tech;Innovation+Through+Technology+Leadership)](https://git.io/typing-svg)
-
----
-
-<img src="https://raw.githubusercontent.com/NatechDevs/NatechDevs/main/assets/banner.svg" width="100%" alt="Innovation Banner" />
-
----
-
-</div>
-
-## ⚡ **Executive Profile**
-
-```yaml
-identity:
-  name: "James Darrol Nate"
-  alias: "NatechDevs"
-  role: "Strategic Innovation Architect & AI Systems Designer"
-  domain: "Enterprise Technology & Digital Transformation"
-
-core_expertise:
-  - Artificial Intelligence & Machine Learning Systems
-  - Strategic Innovation & Technology Architecture
-  - Automation & Intelligent Workflow Engineering
-  - Data Analytics & Predictive Intelligence
-  - Digital Transformation Leadership
-
-mission_statement: >
-  "Designing AI-augmented ecosystems that redefine how institutions
-  operate, learn, and scale. Bridging strategic vision with
-  technical execution to build the next generation of intelligent
-  enterprise solutions."
-
-current_focus:
-  - OROHIVE: AI-Powered Enterprise E-Library Ecosystem
-  - Intelligent Automation Frameworks for Education
-  - Predictive Analytics & Data-Driven Decision Systems
-```
-
----
-
-## 🧠 **AI & Automation Intelligence**
-
-<div align="center">
-
-| Domain | Specialization | Impact |
-|:------|:---------------|:-------|
-| **Machine Learning** | Predictive Models, Pattern Recognition, Anomaly Detection | Data-driven decision intelligence |
-| **Automation Engineering** | Workflow Automation, Process Optimization, CI/CD Pipelines | 10x operational efficiency |
-| **Intelligent Systems** | AI-Augmented Platforms, Smart Recommendations, Adaptive UX | Personalized user experiences |
-| **Data Analytics** | Real-time Dashboards, Behavioral Analytics, Performance Metrics | Actionable business insights |
-| **System Architecture** | Scalable Microservices, API-First Design, Cloud-Native Infrastructure | Enterprise-grade reliability |
-
-</div>
-
----
-
-## 🏛️ **Strategic Skills Framework**
-
-<div align="center">
-
-### **Leadership & Strategy**
-![Visionary](https://img.shields.io/badge/VISIONARY-LEADERSHIP-d97706?style=for-the-badge&logo=themodelsresource&logoColor=white)
-![Strategic Planning](https://img.shields.io/badge/STRATEGIC-PLANNING-d97706?style=for-the-badge&logo=prezi&logoColor=white)
-![Innovation Mgmt](https://img.shields.io/badge/INNOVATION-MANAGEMENT-d97706?style=for-the-badge&logo=pinboard&logoColor=white)
-![Digital Transformation](https://img.shields.io/badge/DIGITAL-TRANSFORMATION-d97706?style=for-the-badge&logo=digikey&logoColor=white)
-
-### **Technology Architecture**
-![System Design](https://img.shields.io/badge/SYSTEM-DESIGN-0f172a?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![API Architecture](https://img.shields.io/badge/API-ARCHITECTURE-0f172a?style=for-the-badge&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/MICROSERVICES-PATTERN-0f172a?style=for-the-badge&logo=docker&logoColor=white)
-![Security](https://img.shields.io/badge/SECURITY-ENGINEERING-0f172a?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-### **Engineering Excellence**
-![PHP](https://img.shields.io/badge/PHP-ADVANCED-d97706?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-ADVANCED-d97706?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-INTERMEDIATE-d97706?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-EXPERT-d97706?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-ADVANCED-d97706?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🌐 **Technology Ecosystem**
-
-<div align="center">
-
-| Layer | Technologies |
-|:------|:-------------|
-| **Core Systems** | `PHP` `JavaScript` `Python` `SQL` `Bash` |
-| **Frontend** | `GSAP` `ScrollTrigger` `TailwindCSS` `Bootstrap` `ApexCharts` |
-| **Backend** | `REST APIs` `PDO` `MySQL` `Session Management` `Rate Limiting` |
-| **Security** | `CSRF` `XSS Prevention` `SQL Injection Defense` `CSP` `HSTS` `SRI` |
-| **Tools** | `Git` `GitHub` `VSCode` `XAMPP` `Postman` |
-| **Design** | `Figma` `SVG` `Responsive Design` `Dark/Light Themes` |
-
-</div>
-
----
-
-## 📊 **GitHub Analytics Dashboard**
-
-<div align="center">
-
-<a href="https://github.com/NatechDevs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatechDevs&show_icons=true&count_private=true&hide_border=true&title_color=d97706&icon_color=d97706&text_color=e2e8f0&bg_color=0f172a&include_all_commits=true&card_width=450" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatechDevs&layout=compact&hide_border=true&title_color=d97706&text_color=e2e8f0&bg_color=0f172a&card_width=400" />
-</a>
+<p align="center">
+  <a href="https://github.com/NatechDevs">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=4000&pause=800&color=D97706&center=true&vCenter=true&width=600&lines=Strategic+Innovation+Architect;AI+Systems+%26+Automation+Engineer;Digital+Transformation+Leader;Building+Intelligent+Enterprise+Solutions" alt="Typing Animation" />
+  </a>
+</p>
 
 <br>
 
-<a href="https://github.com/NatechDevs">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=NatechDevs&hide_border=true&fire=d97706&ring=d97706&sideNums=e2e8f0&sideLabels=e2e8f0&currStreakLabel=d97706&dates=64748b&background=0f172a" />
-</a>
+---
 
-<br>
+## **Executive Introduction**
 
-<a href="https://github.com/NatechDevs">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=NatechDevs&bg_color=0f172a&color=d97706&line=d97706&point=e2e8f0&area=true&hide_border=true" />
-</a>
+> *"I architect intelligent systems at the intersection of artificial intelligence, automation, and strategic innovation. My work focuses on transforming complex challenges into scalable, data-driven solutions that redefine how institutions operate, learn, and grow."*
 
-</div>
+As a technology strategist and systems architect, I design and build AI-augmented platforms that deliver measurable impact — from enterprise e-learning ecosystems to intelligent automation frameworks. My approach combines deep technical expertise with strategic thinking, ensuring every solution is both innovative and execution-ready.
 
 ---
 
-## 🚀 **Featured Innovation**
+## **Mission**
 
-<div align="center">
-
-## **OROHIVE** │ *Enterprise E-Library Intelligence Platform*
-
-[![OROHIVE](https://img.shields.io/badge/OROHIVE-AI_POWERED_E_LIBRARY-d97706?style=for-the-badge&logo=readthedocs&logoColor=white)]()
-[![Status](https://img.shields.io/badge/STATUS-LIVE-22c55e?style=for-the-badge&logo=vercel&logoColor=white)]()
-
-```diff
-+ Enterprise-grade architecture with AI-augmented intelligence
-+ Multi-tenant school management system
-+ Real-time analytics & visitor tracking
-+ Role-based access control (Admin / Superadmin / IT Admin)
-+ Secure passcode & token-based document delivery
-+ GSAP-powered immersive user experiences
-+ Rate-limited API layer with CSRF & XSS protection
 ```
-
-</div>
-
----
-
-## 💡 **Thought Leadership**
-
-```javascript
-const philosophy = {
-  innovation: "Technology should amplify human potential, not replace it.",
-  engineering: "Enterprise systems require defense-in-depth — security isn't a feature, it's a foundation.",
-  leadership: "The best architecture anticipates problems before they exist.",
-  vision: "Education technology must bridge accessibility with sophistication.",
-  design: "Great systems are invisible — they work so well, users forget they're there."
-};
+To engineer intelligent, scalable systems that amplify human potential,
+automate complexity, and democratize access to knowledge and technology.
 ```
 
 ---
 
-## 📡 **Digital Footprint & Connect**
+## **Strategic Expertise**
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/WEB_SITE-PORTFOLIO-d97706?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFESSIONAL-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-e2e8f0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesdarrolnate@devs.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-@NatechDevs-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NatechDevs)
-
-</div>
-
----
-
-## 🏆 **Professional Milestones**
-
-<div align="center">
-
-| Milestone | Achievement |
-|:----------|:------------|
-| 🎯 **OROHIVE v1.0** | Enterprise E-Library Platform deployed with full security audit |
-| 🔐 **Security Architecture** | Implemented enterprise-grade CSRF, CSP, HSTS, SRI, rate limiting |
-| 🎨 **UI/UX Innovation** | GSAP-powered immersive animations with ScrollTrigger |
-| 🏢 **Multi-Tenant System** | School-level tenancy with role-based access control |
-| 📊 **Intelligent Analytics** | Real-time visitor tracking, download metrics, performance dashboards |
-| 🛡️ **Zero SQL Injection** | PDO parameterized queries throughout the entire codebase |
-
-</div>
+| Domain | Capabilities |
+|--------|-------------|
+| **Artificial Intelligence** | Machine Learning, Predictive Analytics, Intelligent Recommendations, Pattern Recognition, Anomaly Detection |
+| **Automation Engineering** | Workflow Automation, Process Optimization, CI/CD Pipelines, Automated Decision Systems, Bot Development |
+| **System Architecture** | Scalable Microservices, API-First Design, Multi-Tenant Infrastructure, Cloud-Native Architecture, Enterprise Security |
+| **Data Intelligence** | Real-Time Analytics, Behavioral Tracking, Performance Dashboards, Data-Driven Decision Frameworks, Business Intelligence |
+| **Digital Strategy** | Technology Roadmapping, Digital Transformation, Innovation Consulting, Product Architecture, Go-to-Market Strategy |
+| **Leadership** | Cross-Functional Team Leadership, Stakeholder Alignment, Technical Vision, Execution Management, Change Leadership |
 
 ---
 
-## 🗺️ **Innovation Roadmap**
+## **AI & Automation Ecosystem**
 
-```mermaid
-timeline
-    title OROHIVE Evolution
-    Q1 2025 : Foundation Architecture
-            : Core Security Framework
-    Q2 2025 : AI Recommendation Engine
-            : Advanced Analytics Suite
-    Q3 2025 : Mobile Native Experience
-            : Cross-Institution Federation
-    Q4 2025 : Predictive Intelligence
-            : Global Research Network
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    INTELLIGENT SYSTEMS STACK                   │
+├──────────────┬───────────────────────────────────────────────┤
+│  AI LAYER    │  Machine Learning · Predictive Models          │
+│              │  Recommendation Engines · Anomaly Detection    │
+├──────────────┼───────────────────────────────────────────────┤
+│  AUTOMATION  │  Workflow Engineering · Process Automation     │
+│  LAYER       │  CI/CD · Intelligent Triggers                 │
+├──────────────┼───────────────────────────────────────────────┤
+│  ANALYTICS   │  Real-Time Dashboards · Behavioral Analytics   │
+│  LAYER       │  Performance Metrics · Predictive Insights     │
+├──────────────┼───────────────────────────────────────────────┤
+│  SECURITY    │  Defense-in-Depth · CSRF · CSP · HSTS · SRI   │
+│  LAYER       │  Rate Limiting · Input Validation · Auth      │
+├──────────────┼───────────────────────────────────────────────┤
+│  INFRASTRUCTURE │ Scalable Architecture · Multi-Tenant        │
+│              │  API-First · Cloud-Ready                      │
+└──────────────┴───────────────────────────────────────────────┘
 ```
 
 ---
 
-<div align="center">
+## **Technology Stack**
 
-### *"Engineering intelligence. Architecting impact."*
+### **Languages & Core**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### **Frontend & Experience**
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-00E396?style=flat-square&logo=chartdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Backend & Architecture**
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![PDO](https://img.shields.io/badge/PDO-4479A1?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Session Management](https://img.shields.io/badge/Session_Mgmt-000000?style=flat-square&logo=letsencrypt&logoColor=white)
+
+### **Security Engineering**
+![CSRF](https://img.shields.io/badge/CSRF_Protection-000000?style=flat-square&logo=owasp&logoColor=white)
+![CSP](https://img.shields.io/badge/CSP_Headers-000000?style=flat-square&logo=letsencrypt&logoColor=white)
+![HSTS](https://img.shields.io/badge/HSTS_Preload-000000?style=flat-square&logo=letsencrypt&logoColor=white)
+![SRI](https://img.shields.io/badge/SRI_Integrity-000000?style=flat-square&logo=letsencrypt&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-000000?style=flat-square&logo=owasp&logoColor=white)
+![XSS Prevention](https://img.shields.io/badge/XSS_Prevention-000000?style=flat-square&logo=owasp&logoColor=white)
+![Input Validation](https://img.shields.io/badge/Input_Validation-000000?style=flat-square&logo=owasp&logoColor=white)
+
+### **AI & Data Tools**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-005571?style=flat-square&logo=databricks&logoColor=white)
+![Process Automation](https://img.shields.io/badge/Process_Automation-00897B?style=flat-square&logo=automation&logoColor=white)
+
+### **Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=NatechDevs&color=d97706&style=flat-square&label=PROFILE+VISITS" alt="Profile Visits" />
+## **Innovation Areas**
 
-**© 2025 NatechDevs. All Rights Reserved.**
+```
+┌────────────────────────────────────────────────────────────┐
+│  EDUCATION TECHNOLOGY    ·    ENTERPRISE SYSTEMS           │
+│  AI-AUGMENTED PLATFORMS  ·    INTELLIGENT AUTOMATION       │
+│  DATA-DRIVEN SOLUTIONS   ·    DIGITAL TRANSFORMATION       │
+│  KNOWLEDGE MANAGEMENT    ·    SECURITY ARCHITECTURE        │
+└────────────────────────────────────────────────────────────┘
+```
 
-</div>
+### Current Focus: **OROHIVE** — Enterprise E-Library Intelligence Platform
+
+An AI-augmented, multi-tenant e-learning ecosystem designed for educational institutions. Features include real-time analytics, role-based access, secure document delivery, and enterprise-grade security architecture.
+
+```
+┌─ Key Achievements ─────────────────────────────────────────┐
+│  • Enterprise-grade security: CSRF, CSP, HSTS, SRI          │
+│  • Zero SQL injection: PDO parameterized queries throughout │
+│  • Multi-tenant architecture with school-level tenancy      │
+│  • Real-time visitor tracking & download analytics          │
+│  • GSAP-powered immersive user experience                   │
+│  • Rate-limited API layer with comprehensive input validation│
+│  • Role-based access: Admin, Superadmin, IT Admin           │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## **GitHub Analytics**
+
+<p align="center">
+  <a href="https://github.com/NatechDevs">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NatechDevs&show_icons=true&count_private=true&hide_border=true&title_color=d97706&icon_color=d97706&text_color=cbd5e1&bg_color=0a0f1a&include_all_commits=true&card_width=420" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatechDevs&layout=compact&hide_border=true&title_color=d97706&text_color=cbd5e1&bg_color=0a0f1a&card_width=380" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NatechDevs">
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=NatechDevs&hide_border=true&fire=d97706&ring=d97706&sideNums=cbd5e1&sideLabels=cbd5e1&currStreakLabel=d97706&dates=64748b&background=0a0f1a" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NatechDevs">
+    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=NatechDevs&bg_color=0a0f1a&color=d97706&line=d97706&point=cbd5e1&area=true&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## **Research & Development Focus**
+
+| Area | Objective |
+|------|-----------|
+| **Intelligent E-Learning Systems** | Building AI-augmented platforms that personalize learning experiences and automate administrative workflows |
+| **Security-First Architecture** | Developing enterprise systems with defense-in-depth — where security is foundational, not an afterthought |
+| **Automation Frameworks** | Creating intelligent automation layers that reduce manual processes and improve operational efficiency |
+| **Predictive Analytics** | Designing data-driven systems that anticipate user behavior and deliver proactive insights |
+| **Scalable Multi-Tenant Infrastructure** | Architecting platforms that serve multiple institutions with isolated, secure tenancy |
+
+---
+
+## **Leadership Principles**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Think Long-Term, Execute Today                              │
+│  Build Systems, Not Features                                 │
+│  Security is a Foundation, Not a Layer                       │
+│  Automate Complexity, Amplify Simplicity                     │
+│  Data Informs, Intelligence Decides                          │
+│  Architect for Scale from Day One                            │
+│  Innovation Without Execution is Just an Idea                │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## **Digital Presence**
+
+<p align="center">
+  <a href="mailto:jamesdarrolnate@devs.com"><img src="https://img.shields.io/badge/Email-jamesdarrolnate%40devs.com-0a0f1a?style=for-the-badge&logo=gmail&logoColor=d97706" /></a>
+  <a href="https://github.com/NatechDevs"><img src="https://img.shields.io/badge/GitHub-@NatechDevs-0a0f1a?style=for-the-badge&logo=github&logoColor=d97706" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a0f1a?style=for-the-badge&logo=linkedin&logoColor=d97706" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-natechdevs.io-0a0f1a?style=for-the-badge&logo=google-chrome&logoColor=d97706" /></a>
+</p>
+
+---
+
+## **Vision for the Future**
+
+> *"I believe the future belongs to those who can bridge strategic vision with technical execution. As AI and automation reshape industries, the greatest impact will come from architects who design systems that are intelligent, secure, and human-centered. I'm building toward that future — one system, one platform, one innovation at a time."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NatechDevs&color=d97706&style=flat-square&label=Profile+Visits" alt="Profile Visits" />
+  <br><br>
+  <em>© 2025 NatechDevs. Crafted with precision.</em>
+</p>
