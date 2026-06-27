@@ -4,7 +4,7 @@
 
 ## **Hi, I'm James Darrol Nate**
 
-**AI-Augmented Systems Architect** — Architecting logical digital ecosystems through systems thinking, AI-assisted workflows, and user-centered architecture.
+**AI-Assisted Systems Architect** — Architecting logical digital ecosystems through systems thinking, AI-assisted workflows, and user-centered architecture.
 
 I specialize in translating high-level business requirements into scalable digital architectures. My process combines the creative intuition of a product designer with the rigorous logic of a systems engineer.
 
