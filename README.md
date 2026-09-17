@@ -80,6 +80,14 @@ I specialize in translating high-level business requirements into scalable digit
 - 🔒 Passcode gate, RLS policies, rate limiting, idle logout
 - ⚡ Live at [buscl.vercel.app](https://buscl.vercel.app)
 
+### **OROHIVE** — E-Library Platform
+- 📚 Secure digital research archive for Philippine high schools
+- 🔐 Passcode-gated PDF delivery with auto-rotating access tokens
+- 👥 Three-tier admin hierarchy (Librarian → IT Admin → Superadmin)
+- 🏗️ PHP 8.x + MySQL + Tailwind CSS — custom architecture, no framework
+- 🔗 [Live demo](https://orohive-e-library.yzz.me)
+- ⚡ Multi-tenant data isolation, CSP/HSTS security headers
+
 ---
 
 ## **Connect With Me**
