@@ -1,26 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0f1a;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#111827;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0a0f1a;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#0a0a1a;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#120824;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#1a0a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a1a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="pinkGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF2FA8;stop-opacity:0.15" />
+      <stop offset="50%" style="stop-color:#6C2BD9;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#22D3EE;stop-opacity:0.15" />
     </linearGradient>
     <linearGradient id="lineFade" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#d97706;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#d97706;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#d97706;stop-opacity:0" />
+      <stop offset="0%" style="stop-color:#FF2FA8;stop-opacity:0" />
+      <stop offset="30%" style="stop-color:#FF2FA8;stop-opacity:0.4" />
+      <stop offset="70%" style="stop-color:#6C2BD9;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#FF2FA8;stop-opacity:0" />
     </linearGradient>
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF2FA8;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#22D3EE;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#FF2FA8" flood-opacity="0.3"/>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.5" fill="#FF2FA8" opacity="0.3"/>
+    </pattern>
   </defs>
   <rect width="1200" height="200" fill="url(#bg)"/>
-  <rect x="0" y="0" width="1200" height="1" fill="url(#lineFade)"/>
-  <rect x="0" y="199" width="1200" height="1" fill="url(#lineFade)"/>
-  <text x="60" y="85" font-family="'Segoe UI', -apple-system, sans-serif" font-size="42" font-weight="700" fill="#f1f5f9" letter-spacing="0.5">
+  <rect width="1200" height="200" fill="url(#pinkGlow)"/>
+  <rect width="1200" height="200" fill="url(#dots)" opacity="0.5"/>
+  <rect x="0" y="0" width="1200" height="1" fill="url(#lineFade)" opacity="0.6"/>
+  <rect x="0" y="199" width="1200" height="1" fill="url(#lineFade)" opacity="0.6"/>
+  <circle cx="100" cy="100" r="60" fill="#FF2FA8" opacity="0.05"/>
+  <circle cx="1100" cy="100" r="80" fill="#6C2BD9" opacity="0.05"/>
+  <circle cx="600" cy="30" r="40" fill="#22D3EE" opacity="0.03"/>
+  <rect x="0" y="90" width="1200" height="1" fill="url(#lineFade)" opacity="0.2"/>
+  <rect x="0" y="108" width="1200" height="0.5" fill="url(#lineFade)" opacity="0.1"/>
+  <text x="60" y="85" font-family="'Segoe UI', -apple-system, sans-serif" font-size="48" font-weight="800" fill="url(#titleGradient)" letter-spacing="1" filter="url(#shadow)">
     James Darrol Nate
   </text>
-  <text x="60" y="120" font-family="'Segoe UI', -apple-system, sans-serif" font-size="15" fill="#d97706" letter-spacing="2" font-weight="500">
+  <text x="60" y="118" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" fill="#FF2FA8" letter-spacing="4" font-weight="600" filter="url(#glow)">
     AI-ASSISTED SYSTEMS ARCHITECT
   </text>
-  <text x="60" y="150" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" fill="#64748b" letter-spacing="1" font-weight="300">
+  <text x="60" y="148" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" fill="#94A3B8" letter-spacing="1.5" font-weight="300">
     Architecting logical digital ecosystems through systems thinking and AI-assisted workflows.
   </text>
+  <rect x="60" y="160" width="120" height="2" rx="1" fill="url(#lineFade)" opacity="0.5"/>
 </svg>
